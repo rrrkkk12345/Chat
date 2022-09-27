@@ -1,0 +1,46 @@
+[
+    {
+      "personName": "other",
+      "plane": "会話1"
+    },
+    {
+      "personName": "me",
+      "plane": "会話2"
+    },
+    {
+      "personName": "me",
+      "plane": "会話3"
+    },
+    {
+      "personName": "me",
+      "plane": "会話4"
+    },
+    {
+      "personName": "me",
+      "plane": "会話5"
+    },
+    {
+      "personName": "other",
+      "plane": "会話6"
+    },
+    {
+      "personName": "me",
+      "plane": "会話7"
+    },
+    {
+      "personName": "other",
+      "plane": "会話8"
+    },
+    {
+      "personName": "me",
+      "plane": "会話9"
+    },
+    {
+      "personName": "other",
+      "plane": "会話10"
+    },
+    {
+      "personName": "other",
+      "plane": "会話11"
+    }
+]
