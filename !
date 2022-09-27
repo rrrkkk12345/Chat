@@ -1,0 +1,38 @@
+chat
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pages
+# Your branch is up to date with 'origin/pages'.
+#
+# Changes to be committed:
+#	new file:   db.json
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/App.css
+#	modified:   src/App.tsx
+#	new file:   src/assets/test.png
+#	deleted:    src/index.js
+#	new file:   src/index.tsx
+#	modified:   src/modules/pageActionModule.tsx
+#	modified:   src/modules/rootState.tsx
+#	new file:   src/pages/Answer.tsx
+#	new file:   src/pages/AnswerList.tsx
+#	modified:   src/pages/chat.tsx
+#	new file:   src/pages/chat2.tsx
+#	new file:   src/pages/chats.tsx
+#	new file:   src/pages/header.module.css
+#	new file:   src/pages/header.tsx
+#	new file:   src/pages/inputInfo.tsx
+#	modified:   src/pages/loginPage.tsx
+#	deleted:    src/pages/map.html
+#	modified:   src/pages/topPage.tsx
+#	new file:   src/pages/welcomePage.tsx
+#	modified:   src/react-app-env.d.ts
+#	new file:   src/store.tsx
+#	deleted:    src/utils/Marker.js
+#	modified:   src/utils/googleMapAPI.tsx
+#	deleted:    src/utils/pinmap.tsx
+#	deleted:    src/utils/withMarkers.js
+#	modified:   tsconfig.json
+#
